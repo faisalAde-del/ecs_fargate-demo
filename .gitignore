@@ -1,0 +1,9 @@
+
+*.tfstate
+.tfstate.
+.terraform/
+
+*.log
+
+.DS_Store
+*.swp
